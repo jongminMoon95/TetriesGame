@@ -1,0 +1,14 @@
+﻿빌드 시작: 2015-11-16 오전 6:06:45
+     1>2 노드의 "C:\Users\MJM\Desktop\Object_Progarming - 복사본\Object_Progarming\Object_Progarming.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Client_Main.cpp
+         Client_Main.cpp
+     1>c:\users\mjm\desktop\object_progarming - 복사본\object_progarming\client.h(119): error C2440: '=' : 'const char [2]'에서 'std::string [5]'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\mjm\desktop\object_progarming - 복사본\object_progarming\sub_server.h(342): error C2440: '=' : 'char [5][256]'에서 'std::string [5]'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>"C:\Users\MJM\Desktop\Object_Progarming - 복사본\Object_Progarming\Object_Progarming.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.50
